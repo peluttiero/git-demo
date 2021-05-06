@@ -9,3 +9,5 @@ i --global user.name "JP Peluttiero"
    cat ~/.gitconfig
 project creation
    mkdir project
+
+mezrmlzflzemùfl
